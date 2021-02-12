@@ -1,1 +1,1 @@
-# ProteinSequenceCovid19
+# Protein Sequence Analysis of Covid19
