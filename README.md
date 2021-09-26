@@ -65,7 +65,7 @@ is learning anything interesting is via the FillMaskPipeline.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zelenkastiot/s-gene-mutations-SARS-CoV-2/main/loss.png" width=45%;></img> <br>
-Fig3. The Transformer model architecture [1](https://arxiv.org/abs/1706.03762)
+Fig3. Learning loss taking account the co-occuring changes
 </p>
 
 
